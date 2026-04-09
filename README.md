@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Johannes and I'm currently turning my scattered attention towards programming and technology. I'm familiar with Python and Go, though I also occasionally use Javascript for something on the frontend.
+
+My biggest project so far, and one I'm still working on improving when the API updates, is a CLI Client for the social network [Cyberspace](https://cyberspace.online). You can find it pinned below.
+
 <!--
 **johannesalke/johannesalke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
