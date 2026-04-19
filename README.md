@@ -6,6 +6,10 @@ Since you're already here, I'll take the opportunity to plug some good non-techn
 **Projects**
 - CyberspaceCLI: My biggest project so far, and one I'm still working on improving when the API updates, is a CLI Client for the social network [Cyberspace](https://cyberspace.online). It's written in Go, mostly using the standard library but with some Charmbracelet modules for graphical rendering. You can find it pinned below or under [this](https://github.com/johannesalke/cyberspacecli) link.
 
+**Currently working on**
+- Doing small experiments with go to deepen my understanding of the language.
+- Reading parts of the Go stadard library to find out how common utilities work under the hood.
+- Learning Bash scripting.
 
 **Book Recommendations**
 
