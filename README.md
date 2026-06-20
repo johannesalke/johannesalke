@@ -7,8 +7,8 @@ Since you're already here, I'll take the opportunity to plug some good non-techn
 - CyberspaceCLI: My biggest project so far, and one I'm still working on improving when the API updates, is a CLI Client for the social network [Cyberspace](https://cyberspace.online). It's written in Go, mostly using the standard library but with some Charmbracelet modules for graphical rendering. You can find it pinned below or under [this](https://github.com/johannesalke/cyberspacecli) link.
 
 **Currently working on**
-- Realizing that Java is actually pretty similar to Python in a lot of ways.
-- Figuring out how Vue & Nuxt work, so I can build an alternate frontend for Cyberspace.online.
+- Doing some more experiments with Go to figure out the ins and outs of the language.
+- Preparatory work for an alternative Cyberspace.online frontend called Antispace.
 
 **Book Recommendations**
 
