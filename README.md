@@ -7,8 +7,8 @@ Since you're already here, I'll take the opportunity to plug some good non-techn
 - CyberspaceCLI: My biggest project so far, and one I'm still working on improving when the API updates, is a CLI Client for the social network [Cyberspace](https://cyberspace.online). It's written in Go, mostly using the standard library but with some Charmbracelet modules for graphical rendering. You can find it pinned below or under [this](https://github.com/johannesalke/cyberspacecli) link.
 
 **Currently working on**
-- Doing some more experiments with Go to figure out the ins and outs of the language.
-- Preparatory work for an alternative Cyberspace.online frontend called Antispace.
+"Antispace": An alternate Frontend for Cyberspace I that provides algorithmic discovery of people & posts, as well as some additional display features.
+Techstack: Vue/Nuxt Frontend, Go Backend, Postgres Database. Currently hosting on AWS, planning to move to Hetzner VPS once free credit runs out ;)
 
 **Book Recommendations**
 
