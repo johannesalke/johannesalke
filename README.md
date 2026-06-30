@@ -8,7 +8,7 @@ Since you're already here, I'll take the opportunity to plug some good non-techn
 
 **Currently working on**
 
-"Antispace": An alternate Frontend for Cyberspace that provides algorithmic discovery, as well as some additional content features.
+- "Antispace": An alternate Frontend for Cyberspace that provides algorithmic discovery, as well as some additional content features.
 Techstack: Vue/Nuxt Frontend, Go Backend, Postgres Database. Currently hosting on AWS, planning to move to Hetzner VPS once free credit runs out ;)
 
 **Book Recommendations**
