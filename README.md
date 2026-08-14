@@ -1,15 +1,14 @@
 ## Hi there 👋
 
-I'm Johannes and I'm currently turning my scattered attention towards programming and technology. I'm familiar with Python and Go, though I also occasionally use Javascript for something on the frontend. While I learned some bits and pieces over the years, much of my current skills are from [boot.dev](https://www.boot.dev/u/sevenspires).
+I'm Johannes and I'm currently turning my ttention towards programming and technology. I'm best with Python and Go, though I also occasionally use Javascript for something on the frontend. While I learned some bits and pieces over the years, much of my current skills are from [boot.dev](https://www.boot.dev/u/sevenspires).
 Since you're already here, I'll take the opportunity to plug some good non-technical books. 
 
 **Projects**
-- CyberspaceCLI: My biggest project so far, and one I'm still working on improving when the API updates, is a CLI Client for the social network [Cyberspace](https://cyberspace.online). It's written in Go, mostly using the standard library but with some Charmbracelet modules for graphical rendering. You can find it pinned below or under [this](https://github.com/johannesalke/cyberspacecli) link.
+- CyberspaceCLI: My biggest project so far is a CLI-Client for the social network [Cyberspace](https://cyberspace.online). It's written in Go, mostly using the standard library but with some Charmbracelet modules for graphical rendering. You can find it pinned below or under [this](https://github.com/johannesalke/cyberspacecli) link.
 
 **Currently working on**
 
-- "Antispace": An alternate Frontend for Cyberspace that provides algorithmic discovery, as well as some additional content features.
-Techstack: Vue/Nuxt Frontend, Go Backend, Postgres Database. Currently hosting on AWS, planning to move to Hetzner VPS once free credit runs out ;)
+- "Antispace": An alternate Frontend for Cyberspace that provides some additional/alternative functionality. Planning to host it on a Hetzner VPS.
 
 **Book Recommendations**
 
